@@ -57,11 +57,7 @@ const App: React.FC = () => {
                           loop
                           muted
                           playsInline
-                          onMouseEnter={(e) => e.currentTarget.play()}
-                          onMouseLeave={(e) => {
-                            e.currentTarget.pause();
-                            e.currentTarget.currentTime = 0;
-                          }}
+                          autoPlay
                         />
                       ) : (
                         <img

@@ -11,21 +11,21 @@ export const HARDWARE_FEATURES = [
   {
     step: '01',
     title: 'CONECTAR',
-    desc: 'NÓS COBRAMOS Os veículos elétricos da Revoy estão totalmente carregados e prontos para uso nas paradas ao longo da sua rota.',
+    desc: ' NÓS Disponibilizamos os modulos eletricos da VoltDrive que estão totalmente carregados e prontos para uso nas paradas ao longo da sua rota.',
     img: 'https://i.ibb.co/NgHrF35q/Whats-App-Image-2026-01-08-at-08-21-22-1.jpg',
     video: '/0108.mp4'
   },
   {
     step: '02',
     title: 'ECONOMIZAR',
-    desc: 'VOCÊ DIRIGE O Revoy EV adiciona propulsão elétrica. Você queima menos diesel e economiza dinheiro.',
+    desc: 'VOCÊ DIRIGE a VoltDive adiciona propulsão elétrica e maior eficienecia na frenagem. Você queima menos diesel e economiza dinheiro.',
     img: 'https://i.ibb.co/YBYvxg76/Whats-App-Image-2026-01-08-at-08-21-22-c.jpg',
     video: '/0108(1).mp4'
   },
   {
     step: '03',
     title: 'ESCALAR',
-    desc: 'Nós trocamos isso. Troque seu Revoy EV por uma unidade carregada em minutos. Sem tempo de inatividade, pague apenas pelos quilômetros que usar!',
+    desc: 'Troque seu VoltDrive por uma unidade carregada em minutos. Sem tempo de inatividade, pague apenas pelos quilômetros que usar!',
     img: 'https://images.unsplash.com/photo-1621905251918-48416bd8575a?auto=format&fit=crop&q=80&w=800',
     video: '/0108(3).mp4'
   },
